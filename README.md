@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello there, welcome to my Git profile 👋
+- 👦 I'm Duy (DuyPlus) - A boy who is trying to do things that make herself proud of
+- 🌱 I'm currently studying at FPT Polytechnic and working on [my blog](https://www.hoangduy.my.id)
+- 📫 Reach me at [Facebook](https://facebook.com/duyplusx), [Instagram](https://instagram.com/nghdyyy), [Telegram](https://t.me/duyplus)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duyplus&show_icons=true&theme=radical)
 <!--
 **duyplus/duyplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

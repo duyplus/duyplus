@@ -43,9 +43,9 @@
 
 <h2 align="center">🌟 GitHub Stats</h2>
 <p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=duyplus&show_icons=true&count_private=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=duyplus&show_icons=true&count_private=true&theme=tokyonight" />
     <br>
-    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyplus&layout=compact&count_private=true&langs_count=8" />
+    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyplus&layout=compact&count_private=true&langs_count=8&theme=tokyonight" />
 </p>
 
 <hr>

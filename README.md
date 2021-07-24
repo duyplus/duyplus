@@ -10,11 +10,11 @@
 
 <p align="center">
     <a href="https://github.com/duyplus?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat-square&style=for-the-badge&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/duyplus?tab=repositories&language=c" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C-00599C?style=flat-square&style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&style=for-the-badge&logo=C&logoColor=white"></a>
     <a href="https://github.com/duyplus?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/duyplus?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat-square&style=for-the-badge&logo=java&logoColor=white"></a>
     <!--<a href="https://github.com/duyplus?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&style=for-the-badge&logo=Python&logoColor=white"></a>-->
-    <a href="https://github.com/duyplus?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/-PHP-276DC3?style=flat-square&style=for-the-badge&logo=PHP&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=TSQL" target="_blank"><img alt="TSQL" src="https://img.shields.io/badge/-TSQL-276DC3?style=flat-square&style=for-the-badge&logo=TSQL&logoColor=white"></a>
     <a href="https://github.com/duyplus?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-008080?style=flat-square&style=for-the-badge&logo=javascript&logoColor=white"></a>
 </p>
 

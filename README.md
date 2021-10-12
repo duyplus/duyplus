@@ -1,5 +1,5 @@
 ### Hello there, welcome to my Git profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<samp>- 👨‍💻 I'm Duy (DuyPlus) - A boy who is trying to do things that make himself proud of</samp><br/>
+<samp>- 👨‍💻 I'm Nguyen Hoang Duy (DuyPlus) - A boy who is trying to do things that make himself proud of</samp><br/>
 <samp>- 🌱 I'm currently studying at FPT Polytechnic and working on [my blog](https://www.hoangduy.my.id)</samp>
 
 <p align="center">
@@ -23,31 +23,19 @@
     <a href="https://github.com/duyplus" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/duyplus/duyplus?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square&style=for-the-badge"/></a>
     <a href="https://github.com/duyplus/duyplus" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/duyplus/duyplus?label=Profile%20updated&style=flat-square&style=for-the-badge"></a>
 </p>
-
 <hr>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <samp>Nothing is written for myself.<br>"Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible."
   </samp>
 </p>
-
-<hr>
-
-<h2 align="center">📫 Reach me on</h2>
 <p align="center">
-  <a href="https://www.facebook.com/duyplusx" target="_blank"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/duyplusz" target="_blank"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/duyplusdz" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:duyplusdz@gmail.com?subject=Hello%20Duy,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
-
-<h2 align="center">🌟 GitHub Stats</h2>
 <p align="center">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=duyplus&show_icons=true&count_private=true&theme=tokyonight" />
-    <br>
-    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyplus&layout=compact&count_private=true&langs_count=8&theme=tokyonight" />
 </p>
-
-<hr>
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>

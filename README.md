@@ -1,5 +1,5 @@
 ### Hello there, welcome to my Git profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<samp>- 👨‍💻 I'm Duy (DuyPlus) - A boy who is trying to do things that make herself proud of</samp><br/>
+<samp>- 👨‍💻 I'm Duy (DuyPlus) - A boy who is trying to do things that make himself proud of</samp><br/>
 <samp>- 🌱 I'm currently studying at FPT Polytechnic and working on [my blog](https://www.hoangduy.my.id)</samp>
 
 <p align="center">

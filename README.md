@@ -20,7 +20,6 @@
 
 <p align="center">
     <a href="https://github.com/duyplus?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&style=for-the-badge&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/duyplus" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/duyplus/duyplus?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square&style=for-the-badge"/></a>
     <a href="https://github.com/duyplus/duyplus" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/duyplus/duyplus?label=Profile%20updated&style=flat-square&style=for-the-badge"></a>
 </p>
 <hr>

@@ -11,10 +11,11 @@
 <p align="center">
     <a href="https://github.com/duyplus?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat-square&style=for-the-badge&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/duyplus?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&style=for-the-badge&logo=C&logoColor=white"></a>
-    <a href="https://github.com/duyplus?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/duyplus?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-orange?style=flat-square&style=for-the-badge&logo=java&logoColor=white"></a>
-    <!--<a href="https://github.com/duyplus?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&style=for-the-badge&logo=Python&logoColor=white"></a>-->
-    <a href="https://github.com/duyplus?tab=repositories&language=TSQL" target="_blank"><img alt="TSQL" src="https://img.shields.io/badge/-TSQL-276DC3?style=flat-square&style=for-the-badge&logo=TSQL&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=hibernate" target="_blank"><img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-7d907f?style=flat-square&style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-5f5e70?style=flat-square&style=for-the-badge&logo=eclipseide&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=springboot" target="_blank"><img alt="Java" src="https://img.shields.io/badge/SpringBoot-orange?style=flat-square&style=for-the-badge&logo=springboot&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=TSQL" target="_blank"><img alt="MSSQL Server" src="https://img.shields.io/badge/-MSSQL Server-276DC3?style=flat-square&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=angularjs" target="_blank"><img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-5e5e5e?style=flat-square&style=for-the-badge&logo=angularjs&logoColor=white"></a>
     <a href="https://github.com/duyplus?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-008080?style=flat-square&style=for-the-badge&logo=javascript&logoColor=white"></a>
 </p>
 

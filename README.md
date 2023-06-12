@@ -3,20 +3,19 @@
 <samp>- 🌱 I'm currently studying at FPT Polytechnic and working on [my blog](https://www.hoangduy.my.id)</samp>
 
 <p align="center">
-    <a href="https://github.com/duyplus" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@duyplus-181717?style=flat-square&style=for-the-badge&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/duyplusdz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/15069798/duyplus?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&style=for-the-badge&logo=Stack-Overflow&logoColor=white"></a>
+    <a href="https://github.com/duyplus" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@duyplus-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/duyplusdz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/15069798/duyplus?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/duyplus?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat-square&style=for-the-badge&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/duyplus?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&style=for-the-badge&logo=C&logoColor=white"></a>
-    <a href="https://github.com/duyplus?tab=repositories&language=hibernate" target="_blank"><img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-7d907f?style=flat-square&style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/duyplus?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-5f5e70?style=flat-square&style=for-the-badge&logo=eclipseide&logoColor=white"></a>
-    <a href="https://github.com/duyplus?tab=repositories&language=springboot" target="_blank"><img alt="Java" src="https://img.shields.io/badge/SpringBoot-orange?style=flat-square&style=for-the-badge&logo=springboot&logoColor=white"></a>
-    <a href="https://github.com/duyplus?tab=repositories&language=TSQL" target="_blank"><img alt="MSSQL Server" src="https://img.shields.io/badge/-MSSQL Server-276DC3?style=flat-square&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></a>
-    <a href="https://github.com/duyplus?tab=repositories&language=angularjs" target="_blank"><img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-5e5e5e?style=flat-square&style=for-the-badge&logo=angularjs&logoColor=white"></a>
-    <a href="https://github.com/duyplus?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-008080?style=flat-square&style=for-the-badge&logo=javascript&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-5f5e70?style=flat-square&logo=eclipseide&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=html" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></a>
+    <a href="https://github.com/duyplus?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"></a>
 </p>
 
 <p align="center">

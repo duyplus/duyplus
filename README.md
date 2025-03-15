@@ -1,6 +1,6 @@
 ### Hello there, welcome to my Git profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <samp>- 👨‍💻 I'm Nguyen Hoang Duy (DuyPlus) - A boy who is trying to do things that make himself proud of</samp><br/>
-<samp>- 🌱 I'm currently studying at FPT Polytechnic and working on [my blog](https://www.hoangduy.my.id)</samp>
+<samp>- 🌱 I have graduated from FPT Polytechnic and am currently working as a freelancer.</samp>
 
 <p align="center">
     <a href="https://github.com/duyplus" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@duyplus-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
